@@ -1,4 +1,4 @@
-- 👋 Hi, We're @BashundharaGroupC
+👋 Hi, We're @BashundharaGroupC
 
 <!---
 BashundharaGroupC/BashundharaGroupC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
